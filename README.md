@@ -53,16 +53,4 @@
 - Participated in **TN Startup Prototyping & Idea Pitching Event 2024**
 - Completed **Learnathon 2024** by ICT Academy
 
----
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">⭐ <i>If you find my work interesting, feel free to star my repositories!</i> ⭐</p>
