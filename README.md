@@ -8,17 +8,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Pursuing **B.Tech in CS&BS** at Akshaya College of Engineering and Technology (2023–2027)
-- 🏆 **SIH 2025 Finalist** — Grand Finale of Smart India Hackathon (Software Edition)
-- 🌐 Web Development Intern at **Octanet Services Pvt. Ltd.**
-- 🤖 Passionate about AI, Web Development & Problem Solving
-- 📫 Reach me at: **narasimha146a@gmail.com**
+-  Pursuing **B.Tech in CS&BS** at Akshaya College of Engineering and Technology (2023–2027)
+-  **SIH 2025 Finalist** — Grand Finale of Smart India Hackathon (Software Edition)
+- Web Development Intern at **Octanet Services Pvt. Ltd.**
+-  Passionate about AI, Web Development & Problem Solving
+-  Reach me at: **narasimha146a@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
