@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Madanapalli Narasimha</h1>
-<h3 align="center">A passionate Full-Stack Developer & CS undergrad from India 🇮🇳</h3>
 
 <p align="center">
   <a href="mailto:narasimha146a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
